@@ -4,11 +4,11 @@ Der implementierte Algorithmus optimiert einen Agenten, der in der frozen Lake U
 
 **Installation** 
 
-Damit der Alorithmus funktionert wird nur Python und entsprechende Paketke aus der requirements.txt benotigt.
+Damit der Algorithmus funktionert, wird nur Python und entsprechende Pakete aus der requirements.txt benotigt.
 
 **Verwnedung**
 
-Die verwendung ist intuitiv. Nachdem alle Zellen laufen gelassen wurden, braucht der Alorithmus etwas Zeit, damit der Agent lernen kann. Die Q-Werte kann man live verfolgen. Nach dem Durchlauf werden der Cumilative Rewald, der Loss Value, der Epsilon Decay und die Success Rate plottet. 
+Die verwendung ist intuitiv. Nachdem alle Zellen laufen gelassen wurden, braucht der Algorithmus etwas Zeit, damit der Agent lernen kann. Die Werte kann man live verfolgen. Nach dem Durchlauf werden der Cumilative Rewald, der Loss Value, der Epsilon Decay und die Success Rate plottet. 
 
 **Note**
 
