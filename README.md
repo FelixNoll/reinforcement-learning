@@ -12,4 +12,4 @@ Die verwendung ist intuitiv. Nachdem alle Zellen laufen gelassen wurden, braucht
 
 **Note**
 
-Gerne kann der Code selbst laufen gelassen werden. Allerdings braucht der Code Zeit, bis er durchgelaufen ist. (Bei mir 25min benötigt mit einem Intel Core i7).
+Gerne kann der Code selbst laufen gelassen werden. Allerdings braucht der Code Zeit, bis er durchgelaufen ist. Zeit ungefähr 30 Minuten.
